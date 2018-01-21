@@ -22,6 +22,11 @@ figure {
   left: 80px;
 }
 
+.loading {
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
 .bg-img {
   background-image: url('../assets/images/noche.gif');
   background-repeat: no-repeat;
@@ -84,7 +89,7 @@ figure {
 }
 
 @media (min-width: 992px) {
-  .bg-gif {
+  .bg-img {
     background-image:url('../assets/images/noche.gif');
   }
 
